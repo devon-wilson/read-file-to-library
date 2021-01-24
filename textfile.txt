@@ -1,0 +1,332 @@
+Script started on Sun 22 Oct 2017 09:35:46 PM PDT
+devon.wilson1@syccuxas01:~/cs162/project2> g++ projectt2.cpp[2P.cppt2.cpp[2P.cppt2.cpp
+[01m[Kg++:[m[K [01;31m[Kerror: [m[Kprojectt2.cpp: No such file or directory
+[01m[Kg++:[m[K [01;31m[Kfatal error: [m[Kno input files
+compilation terminated.
+devon.wilson1@syccuxas01:~/cs162/project2> g++ projectt2.cpp
+[01m[Kg++:[m[K [01;31m[Kerror: [m[Kprojectt2.cpp: No such file or directory
+[01m[Kg++:[m[K [01;31m[Kfatal error: [m[Kno input files
+compilation terminated.
+devon.wilson1@syccuxas01:~/cs162/project2> g++ projectt2.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kg++ project.[K2.cpp
+devon.wilson1@syccuxas01:~/cs162/project2> g++ project2.cppt2.cpp[2P.cppls[Krm typescript.txtls[Krm typescsript.txtscript typescript.txt[5Pg++ project2.cppls[Krm typescript.txt[4@script[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K./a.outg++ project2.cpp[9P./a.outg++ project2.cpp[9P./a.out
+ 
+ 
+******* Overstock Books Wholesaler's ******* 
+ 
+ 
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+1
+ 
+ 
+%%%%%%%%%% Book Inventory %%%%%%%%%% 
+ 
+ 
+------- ISBN: 001------------ 
+Title: 1984
+Author: George Orwell
+Publisher: HarperCollins
+Price: 20.99
+In Stock Total: 212
+--------------------------------
+------- ISBN: 002------------ 
+Title: Oliver Twist
+Author: Charles Dickins
+Publisher: Random House
+Price: 14.99
+In Stock Total: 152
+--------------------------------
+------- ISBN: 003------------ 
+Title: White Fang
+Author: Jack London
+Publisher: Random House
+Price: 11.00
+In Stock Total: 119
+--------------------------------
+------- ISBN: 004------------ 
+Title: Dracula
+Author: Bram Stoker
+Publisher: Penguin Books
+Price: 15.99
+In Stock Total: 234
+--------------------------------
+------- ISBN: 005------------ 
+Title: Persuasion
+Author: ‎Jane Austin
+Publisher: Random House
+Price: 12.99
+In Stock Total: 323
+--------------------------------
+------- ISBN: 006------------ 
+Title: Hard times
+Author: Charles Dickins
+Publisher: Penguin Books
+Price: 11.99
+In Stock Total: 317
+--------------------------------
+------- ISBN: 007------------ 
+Title: Flatland
+Author: Edwin Abbott
+Publisher: McGraw-Hill
+Price: 8.99
+In Stock Total: 34
+--------------------------------
+------- ISBN: 008------------ 
+Title: Alice in Wonderland
+Author: Lewis Carroll
+Publisher: HarperCollins
+Price: 14.99
+In Stock Total: 128
+--------------------------------
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+7
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+2
+Publisher? 
+Random House
+------- ISBN: 002------------ 
+2
+Oliver Twist
+Charles Dickins
+Random House
+14.99
+152
+--------------------------------
+------- ISBN: 003------------ 
+3
+White Fang
+Jack London
+Random House
+11.00
+119
+--------------------------------
+------- ISBN: 005------------ 
+5
+Persuasion
+‎Jane Austin
+Random House
+12.99
+323
+--------------------------------
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+Not Here
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+3
+Enter isbn of book: 
+1000
+The book does not exist. 
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+4
+Book's ISBN? (must be unique) 
+001
+That ISBN is already in the inventory. Please re-enter.
+010
+Title:
+Animal Farm 
+
+Author? 
+George F Orwell
+Publisher? 
+Penguin o Books
+Price?
+-1
+Negative price.  Please re-enter
+7.99
+In Stock Total?( < 0) 
+-3
+Negative price.  Please re-enter
+200
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+1
+ 
+ 
+%%%%%%%%%% Book Inventory %%%%%%%%%% 
+ 
+ 
+------- ISBN: 001------------ 
+Title: 1984
+Author: George Orwell
+Publisher: HarperCollins
+Price: 20.99
+In Stock Total: 212
+--------------------------------
+------- ISBN: 002------------ 
+Title: Oliver Twist
+Author: Charles Dickins
+Publisher: Random House
+Price: 14.99
+In Stock Total: 152
+--------------------------------
+------- ISBN: 003------------ 
+Title: White Fang
+Author: Jack London
+Publisher: Random House
+Price: 11.00
+In Stock Total: 119
+--------------------------------
+------- ISBN: 004------------ 
+Title: Dracula
+Author: Bram Stoker
+Publisher: Penguin Books
+Price: 15.99
+In Stock Total: 234
+--------------------------------
+------- ISBN: 005------------ 
+Title: Persuasion
+Author: ‎Jane Austin
+Publisher: Random House
+Price: 12.99
+In Stock Total: 323
+--------------------------------
+------- ISBN: 006------------ 
+Title: Hard times
+Author: Charles Dickins
+Publisher: Penguin Books
+Price: 11.99
+In Stock Total: 317
+--------------------------------
+------- ISBN: 007------------ 
+Title: Flatland
+Author: Edwin Abbott
+Publisher: McGraw-Hill
+Price: 8.99
+In Stock Total: 34
+--------------------------------
+------- ISBN: 008------------ 
+Title: Alice in Wonderland
+Author: Lewis Carroll
+Publisher: HarperCollins
+Price: 14.99
+In Stock Total: 128
+--------------------------------
+------- ISBN: 010------------ 
+Title: Animal Farm 
+Author: George Orwell
+Publisher: Penguin Books
+Price: 7.00
+In Stock Total: 200
+--------------------------------
+ 
+ 
+********MAIN MENU******** 
+1 - Print Inventory 
+2 - Search by Publisher 
+3 - Find book by ISBN Number 
+4 - Add Book 
+5 - quit 
+Enter choice: 
+5
+*** END OF PROGRAM **
+devon.wilson1@syccuxas01:~/cs162/project2> exit
+exit
+
+Script done on Sun 22 Oct 2017 09:38:03 PM PDT

@@ -1,0 +1,49 @@
+001
+1984
+George Orwell
+HarperCollins
+20.99
+212
+002
+Oliver Twist
+Charles Dickins
+Random House
+14.99
+152
+003
+White Fang
+Jack London
+Random House
+11.00
+119
+004
+Dracula
+Bram Stoker
+Penguin Books
+15.99
+234
+005
+Persuasion
+‎Jane Austin
+Random House
+12.99
+323
+006
+Hard times
+Charles Dickins
+Penguin Books
+11.99
+317
+007
+Flatland
+Edwin Abbott
+McGraw-Hill
+8.99
+34
+008
+Alice in Wonderland
+Lewis Carroll
+HarperCollins
+14.99
+128
+010
